@@ -1,14 +1,19 @@
 import React from "react";
 import { Grid, Card, CardMedia, Container, Typography } from "@mui/material";
-import Img1 from "../../assets/AboutUsImg.jpg";
+import Img1 from "../../assets/GalleryImg/Img1.jpg";
+import Img2 from "../../assets/GalleryImg/Img2.jpg";
+import Img3 from "../../assets/GalleryImg/Img3.jpg";
+import Img4 from "../../assets/GalleryImg/Img4.jpg";
+import Img5 from "../../assets/GalleryImg/Img5.jpg";
+import Img6 from "../../assets/GalleryImg/Img6.jpg";
 
 const images = [
   Img1,
-  Img1,
-  Img1,
-  Img1,
-  Img1,
-  Img1
+  Img2,
+  Img3,
+  Img4,
+  Img5,
+  Img6
 ];
 
 const Gallery = () => {
